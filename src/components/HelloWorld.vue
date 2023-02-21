@@ -1,8 +1,9 @@
 <template>
   <h1>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic obcaecati adipisci, in delectus ipsum eveniet impedit
-    doloribus alias incidunt labore, corrupti pariatur unde, commodi asperiores voluptatibus nisi mollitia quisquam!
-    Quidem?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic obcaecati
+    adipisci, in delectus ipsum eveniet impedit doloribus alias incidunt labore,
+    corrupti pariatur unde, commodi asperiores voluptatibus nisi mollitia
+    quisquam! Quidem?
   </h1>
 </template>
 
