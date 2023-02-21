@@ -1,0 +1,5 @@
+# build
+dist/**/*
+
+# Node Modules
+node_modules/**/*
